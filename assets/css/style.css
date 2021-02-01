@@ -1,0 +1,31 @@
+body p{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#over_line_titel:hover{
+    color: #797676 !important;
+    transition: 1s;
+}
+
+#gallery_set, #publications_set{
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+
+#contact_set{
+    margin-top: 100px;
+}
+
+#gallery_body{
+    margin-bottom: 100px;
+}
+
+#gallery_body img:hover{
+    opacity: .8;
+    transition: .8s;
+}
+
+.carousel-inner .carousel-item{
+    transition: 3s linear;
+}
